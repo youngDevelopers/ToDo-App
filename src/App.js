@@ -25,7 +25,13 @@ function App() {
           text : 'Food Shopping',
           day : 'Feb 5th at 2.30pm',
           reminder : false,
-      }
+      },
+      {
+        id: 4,
+        text : 'Betting',
+        day : 'March 10 5pm',
+        reminder : true,
+    }
   ])
 
   //Add Task
